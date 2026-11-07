@@ -1,0 +1,8 @@
+    1  sudo passwd user1
+    2  chmod 440 /etc/sudoers.d/user1-timedatectl
+    3  sudo chmod 440 /etc/sudoers.d/user1-timedatectl
+    4  sudo chown root:root /etc/sudoers.d/user1-timedatectl
+    5  порядковый номер - 33
+    6  history > ~/history.out
+    7  history -a
+    8  history > ~/history.out
